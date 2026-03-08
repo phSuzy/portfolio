@@ -1,4 +1,4 @@
-# non-hermitian-lattice
+# Non-hermitian-lattice
 
 Numerical simulation of a 1D non-Hermitian lattice with open boundary conditions, containing a central impurity.
 
